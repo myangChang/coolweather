@@ -2,6 +2,7 @@ package com.cmy.coolweather.db;
 
 import org.litepal.crud.DataSupport;
 
+//省份类
 public class Province extends DataSupport {
     private int id;
     private String provinceName;
